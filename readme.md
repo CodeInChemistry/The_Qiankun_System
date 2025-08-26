@@ -1,6 +1,10 @@
 # The Qiankun System: High-Fidelity DNA Medium-Enabled Information Communication Secured by the Nested Yin-Yang Codec System
 
-The DNA storage is a promising technology for large-scale information archving technology, but high error rate, about 0.1 ~ 1 %, challenges getting error free information from DNA oligonucleotides. The Qiankun system is a DNA storage encoding and decoding system designed to handle Indel errors with a single read. 
+DNA molecules are emerging as a promising material for data storage, primarily due to their remarkable properties, including high information density and longevity. The potential of DNA to store vast amounts of data in a minuscule physical space is unparalleled; for instance, a single gram of DNA can theoretically hold around 215 petabytes of information. Additionally, DNA can endure for thousands of years under suitable conditions, making it an attractiveoption for long-term data preservation.
+
+One major concern is the occurrence of mutations, which can naturally alter the DNA sequence over time. These mutations can compromise the integrity of the stored information, making it difficult to retrieve accurate data. Furthermore, contamination can occur during the DNA synthesis and storage processes, introducing foreign elements that can lead to erroneous readings. Such factors complicate the retrieval of error-free information from DNA sets, posing a significant hurdle for practical applications.
+
+To address these challenges, the Qian Kun Advance (QKA) system has been developed. This innovative system aims to mitigate the risks associated with DNA data storage and ensure information security. The QKA system incorporates advanced error correction algorithms designed to detect and rectify discrepancies in the DNA sequences, thereby enhancing data sequrity and integrity. 
 
 ### Main idea of the Qiankun system
 
